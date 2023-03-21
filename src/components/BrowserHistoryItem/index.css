@@ -1,0 +1,26 @@
+li {
+  list-style-type: none;
+  display: flex;
+  margin: 25px;
+}
+.domain-logo {
+  margin-left: 47px;
+  margin-right: 82px;
+}
+
+.delete-icon {
+  height: 30px;
+  width: 30px;
+  margin-left: 20px;
+}
+
+button {
+  border-radius: 7px;
+  background-color: transparent;
+  margin-left: 10px;
+  border: 0px;
+}
+
+.title {
+  margin-right: 19px;
+}

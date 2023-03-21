@@ -1,0 +1,24 @@
+.nav-sec {
+  background-color: #3367d6;
+  color: white;
+  padding: 20px;
+  display: flex;
+  text-align: center;
+  display: flex;
+}
+
+.search-box {
+  display: flex;
+  align-items: center;
+  margin-left: 600px;
+}
+
+.items-container {
+  display: flex;
+  justify-content: center;
+}
+
+input {
+  border: 0;
+  margin-right: 9px;
+}
